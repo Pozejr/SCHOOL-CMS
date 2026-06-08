@@ -1,0 +1,7 @@
+.git
+.env
+logs/*
+uploads/images/*
+uploads/documents/*
+vendor/
+*.log
